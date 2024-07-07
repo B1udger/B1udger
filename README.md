@@ -25,11 +25,11 @@ Hi there, my name is **Iliyan Stefanov**. I am a passionate Front-End Developer 
         <td style="text-align:center; vertical-align:top;">
             <strong>Frameworks & Libraries:</strong>
             <ul style="list-style: none;">
-                <li>Spring <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"> <img src="https://user-images.githubusercontent.com/74038190/227503339-6b2363b2-bbf0-4a2c-87a2-e9c21e0871db.gif" width="20"></li>
-                <li>.NET <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white"> <img src="https://user-images.githubusercontent.com/74038190/227503474-e13af63f-227a-491e-9159-8f0cb46c92a2.gif" width="20"></li>
                 <li>React.js <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"> <img src="https://user-images.githubusercontent.com/74038190/227503566-1c86b44e-3aa6-4b64-95a5-5ec15dfd1bd1.gif" width="20"></li>
                 <li>Angular <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white"> <img src="https://user-images.githubusercontent.com/74038190/227503646-3b1b5e5f-b6c3-40c3-9232-b2f7e51c0d5b.gif" width="20"></li>
                 <li>Vue.js <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white"> <img src="https://user-images.githubusercontent.com/74038190/227503716-299b2c41-046e-4db2-8fc8-d7dd38b0736e.gif" width="20"></li>
+                 <li>Spring <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"> <img src="https://user-images.githubusercontent.com/74038190/227503339-6b2363b2-bbf0-4a2c-87a2-e9c21e0871db.gif" width="20"></li>
+                <li>.NET <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white"> <img src="https://user-images.githubusercontent.com/74038190/227503474-e13af63f-227a-491e-9159-8f0cb46c92a2.gif" width="20"></li>
             </ul>
         </td>
     </tr>
