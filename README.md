@@ -104,14 +104,16 @@ Hi there, my name is **Iliyan Stefanov**. I am a passionate Front-End Developer 
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
+<div style="display: flex; flex-direction: column; margin-top: 20px;">
+    <div style="margin-bottom: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=B1udger&show_icons=true&theme=radical" alt="My GitHub Stats">
     </div>
-    <div style="flex: 1;">
+    <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1udger&layout=compact&langs_count=10&theme=radical" alt="Top Languages">
     </div>
 </div>
+
+
 
 
 
