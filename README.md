@@ -103,8 +103,9 @@ Hi there, my name is **Iliyan Stefanov**. I am a passionate Front-End Developer 
 </div>
 
 ## 📊 GitHub Stats
-![B1udger's Stats](https://github-readme-stats.vercel.app/api?username=B1udger&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![B1udger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B1udger&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![B1udger's Stats](https://github-readme-stats.vercel.app/api?username=B1udger&theme=radical&show_icons=true&hide_border=true&count_private=true&card_width=495px)
+![B1udger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B1udger&theme=radical&show_icons=true&hide_border=true&layout=compact&card_width=495px)
+
 
 
 
