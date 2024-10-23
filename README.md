@@ -2,7 +2,7 @@
 
 # ℹ️ About Me
 
-Hi there, my name is **Iliyan Stefanov**. I am a passionate Front-End Developer with a strong background in creating dynamic and responsive web applications. 💻
+Hi there, my name is **Iliyan Stefanov**. I am a passionate Full-Stack Developer with a strong background in creating dynamic and responsive web applications. 💻
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iliqnstfn/)
 
